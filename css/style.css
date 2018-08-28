@@ -566,6 +566,14 @@ header h1 img {
 	color: #999;
 	font-size: 0.28rem;
 }
+.topTab .selectC input {
+	border: none;
+	outline: none;
+	text-align: right;
+	margin-bottom:0;
+	padding: 0.1rem 0;
+	font-size: 0.28rem;
+}
 .topTab .week{
 	height: 0.9rem;
 	line-height: 0.9rem;
