@@ -1036,15 +1036,15 @@ header h1 img {
 	position: relative;
 }
 .onlineM .textImg img {
-	width: 60%;
+	width: 54%;
 }
 .onlineM .portraitImg img {
 	width: 52%;
 }
 .onlineM .textImg {
 	position: absolute;
-	right: -0.7rem;
-	top: -0.55rem;
+	right: -0.8rem;
+	top: -0.5rem;
 }
 .onlineM .portraitImg {
     margin-right:0;
