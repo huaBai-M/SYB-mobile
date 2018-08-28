@@ -1067,7 +1067,7 @@ header h1 img {
 } 
 .onlineM .listsConcat li .hideLeft {
 	position: absolute;
-	top: 0;
+	top: -15%;
 	right: 110%;
 	color: #327bfd;
 	width: 200%;
