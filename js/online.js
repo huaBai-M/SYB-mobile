@@ -5,9 +5,14 @@ $(function(){
 		}else{
 			$('.listsConcat').fadeOut(500);
 		}
-	})
+	});
     $('.listsConcat').on('tap','li',function(){
 		$(this).addClass('onActive').siblings().removeClass('onActive');
+	});
+	$('.mui-scroll').on("focus","input",function(){
+        $('.onlineM').hide();
 	})
-
+	$('.mui-scroll').on("blur","input",function(){
+        $('.onlineM').show();
+	})
 })
